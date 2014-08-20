@@ -1,1 +1,6 @@
 Explain what git clone does, in your own words. 
+
+Clonging a git repository is like making a copy of a repository and put that copy somewhere else. 
+Usually it is used to clone a forked git repo in a directory on your own computer. 
+Forking a repository is just like a server-side clone. 
+You clone a repo of a project to work on it in your local environment.  
