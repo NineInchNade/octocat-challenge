@@ -1,0 +1,7 @@
+Explain waht a branch is, in your own words. 
+
+A branch allows you to work on a project without actually changing the real thing. 
+Per default you are working on the master branch. The master branch is the main input for your repo on github, it resembles the actual projet. 
+You can set up new branches, these are basically like different instance of your project, in which you can change the project in every way you want. The only difference being that you can't mess up the whole thing. 
+If you want the changes in a branch to be part of your project you have to merge that branch with the master branch. 
+Usually git magic takes care of that, but if you changed your project in different ways on both branches that you want to merge, you have to merge it manually. Once again git magic is of assitance for you and makes the manual merge rather easy. 
